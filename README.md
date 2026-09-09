@@ -5,7 +5,7 @@
 - **Name:** Shivansh Srivastava
 - **University:** IILM University
 - **Program:** B.Tech CSE
-- **Semester:** 2nd
+- **Semester:** 3rd
 - **Internship Organization:** Fokuszy
 - **Internship Role:** Social Media Manager / Social Media Intern
 - **Internship Topic:** Social Media Marketing
@@ -66,7 +66,7 @@ This experience contributed to my technical, communication, marketing, and profe
 ### 🎓 Academic Information
 
 **IILM University**  
-**B.Tech CSE – 2nd Semester**  
+**B.Tech CSE – 3rd Semester**  
 **Internship Year: 2026**
 
 ---
